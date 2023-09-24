@@ -1,0 +1,6 @@
+framework module Pods_Tconverter {
+  umbrella header "Pods-Tconverter-umbrella.h"
+
+  export *
+  module * { export * }
+}
